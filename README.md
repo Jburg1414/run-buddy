@@ -8,7 +8,7 @@ A website that offers fitness training services.
 *CSS
 
 ## Website
-https://Jburg1414.github.io/run-buddy/
+https://jburg1414.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jace Burgess
